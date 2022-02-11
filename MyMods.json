@@ -1,0 +1,23 @@
+{
+	"v": 1,
+	
+	"comment": "This 'Update from GitHub' [UfG] manifest is reached from the 'My Mods' URL in my Steam profile. From here, the mod UfG will find the release zip files",
+	"projects": [
+		{ "steamFileId": 2399343344,
+		  "title": "Harmony Mod",
+		  "releaseChannel": "https://github.com/drok/Harmony-CitiesSkylines/maintenance-1.0?HarmonyMod"
+		},
+		{ "steamFileId": 2389228470,
+		  "title": "Transfer Broker BETA",
+		  "releaseChannel": "https://github.com/drok/TransferBroker/beta?TransferBrokerMod"
+		},
+		{ "steamFileId": 2325122732,
+		  "title": "Supply Chain Coloring",
+		  "releaseChannel": "https://github.com/drok/SupplyChainColoring/maintenance-1.1?SupplyChainColoringMod"
+		},
+		{ "steamFileId": 2730687809,
+		  "title": "Network Extensions 3",
+		  "releaseChannel": "https://github.com/drok/NetworkExtensions3/maintenance-1.0?NetworkExtensions3"
+		}
+	] 
+}
